@@ -1,0 +1,42 @@
+{  
+  "greeting": [
+    "Hello",
+    "Bonjour !"
+  ],
+  "vehicles_list": [
+    "Vehicles List",
+    "Liste de véhicules"
+  ],
+  "edit_vehicle": [
+    "Edit Vehicle",
+    "Editer le véhicule"
+  ],
+  "deals_list": [
+    "Deals List",
+    "Liste de Deals"
+  ],
+  "deals_manager": [
+    "Deals Manager",
+    "Gestionnaire des transactions"
+  ]
+  ,
+  "service_manager": [
+    "Service Manager",
+    "Gestionnaire de services"
+  ]
+  ,
+  "client_manager": [
+    "Client Manager",
+    "gestionnaire de clientèle"
+  ],
+  "recall_manager": [
+    "Recall Manager",
+    "gestionnaire de rappel"
+  ],
+  "home":["Home","Accueil"],
+  "deals":["Deals","Offres"],
+  "clients":["Clients","Les clients"],
+  "vehicles":["Vehicles","Véhicules"],
+  "recalls":["Recalls","rappelle"],
+  "services":["Services","prestations de service"]
+}
